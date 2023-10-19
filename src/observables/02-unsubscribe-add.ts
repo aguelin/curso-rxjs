@@ -43,7 +43,3 @@ setTimeout(() => {
 
     console.log("Completado timeout");
 }, 6000);
-
-
-
-
